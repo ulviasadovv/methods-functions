@@ -1,11 +1,11 @@
 ﻿//Task 1
-int sum(int num1, int num2)
+int sum(int num1)
 {
-    int result = num1 + num2;
+    int result = num1 * num1;
     return result;
 };
 
-Console.WriteLine(sum(2, 5));
+Console.WriteLine(sum(5));
 
 
 

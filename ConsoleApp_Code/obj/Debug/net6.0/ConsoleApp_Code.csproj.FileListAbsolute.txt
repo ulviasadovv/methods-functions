@@ -1,0 +1,14 @@
+C:\Users\HP\source\repos\ConsoleApp_Code\ConsoleApp_Code\bin\Debug\net6.0\ConsoleApp_Code.exe
+C:\Users\HP\source\repos\ConsoleApp_Code\ConsoleApp_Code\bin\Debug\net6.0\ConsoleApp_Code.deps.json
+C:\Users\HP\source\repos\ConsoleApp_Code\ConsoleApp_Code\bin\Debug\net6.0\ConsoleApp_Code.runtimeconfig.json
+C:\Users\HP\source\repos\ConsoleApp_Code\ConsoleApp_Code\bin\Debug\net6.0\ConsoleApp_Code.dll
+C:\Users\HP\source\repos\ConsoleApp_Code\ConsoleApp_Code\bin\Debug\net6.0\ConsoleApp_Code.pdb
+C:\Users\HP\source\repos\ConsoleApp_Code\ConsoleApp_Code\obj\Debug\net6.0\ConsoleApp_Code.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\ConsoleApp_Code\ConsoleApp_Code\obj\Debug\net6.0\ConsoleApp_Code.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\ConsoleApp_Code\ConsoleApp_Code\obj\Debug\net6.0\ConsoleApp_Code.AssemblyInfo.cs
+C:\Users\HP\source\repos\ConsoleApp_Code\ConsoleApp_Code\obj\Debug\net6.0\ConsoleApp_Code.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\ConsoleApp_Code\ConsoleApp_Code\obj\Debug\net6.0\ConsoleApp_Code.dll
+C:\Users\HP\source\repos\ConsoleApp_Code\ConsoleApp_Code\obj\Debug\net6.0\refint\ConsoleApp_Code.dll
+C:\Users\HP\source\repos\ConsoleApp_Code\ConsoleApp_Code\obj\Debug\net6.0\ConsoleApp_Code.pdb
+C:\Users\HP\source\repos\ConsoleApp_Code\ConsoleApp_Code\obj\Debug\net6.0\ConsoleApp_Code.genruntimeconfig.cache
+C:\Users\HP\source\repos\ConsoleApp_Code\ConsoleApp_Code\obj\Debug\net6.0\ref\ConsoleApp_Code.dll
